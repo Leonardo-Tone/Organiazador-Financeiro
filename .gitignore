@@ -1,0 +1,6 @@
+*.csv
+dadospessoais.py
+__pycache__/
+*.pyc
+.venv/
+service_account.json
